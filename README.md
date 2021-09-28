@@ -9,7 +9,7 @@
 
 ## Описание процесса тестирования
 
-В качестве тестовых данных использовались данные, указанные в [ задаче №1 "Money Transfer" ] (https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md):
+В качестве тестовых данных использовались данные, указанные в [ задаче №1 "Money Transfer" ] (https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md) :
 * Сложение  двух переменных int currentbalance = 2_000_000_000 и int transferamount = 500_000_000
     Ожидаемый результат: итогом суммы этих чисел будет число 2_500_000_000    
 
